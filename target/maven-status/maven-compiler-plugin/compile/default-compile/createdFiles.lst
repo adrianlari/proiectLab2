@@ -1,0 +1,8 @@
+servlet/DeleteProduct.class
+com/proiectlab/bean/ProductBean.class
+servlet/AddProduct.class
+servlet/EditProduct.class
+com/proiectlab/proiectlab/JakartaRestConfiguration.class
+com/proiectlab/proiectlab/resources/JakartaEE8Resource.class
+servlet/AllProducts.class
+com/proiectlab/entity/Product.class
